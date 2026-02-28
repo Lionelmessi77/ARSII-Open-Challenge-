@@ -1,0 +1,30 @@
+# AI Night Challenge - Tourism Concierge
+# Core Dependencies
+streamlit>=1.40.0
+python-dotenv>=1.0.0
+
+# LangChain & LangGraph
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langgraph>=0.2.0
+
+# Google ADK
+google-adk>=0.1.0
+litellm>=1.0.0
+
+# Vector Database & Embeddings
+qdrant-client>=1.12.0
+openai>=1.50.0
+
+# Data Processing
+chonkie>=0.3.0
+pypdf>=5.0.0
+pdfplumber>=0.11.0
+pandas>=2.2.0
+
+# Utilities
+requests>=2.32.0
+pytz>=2024.1
+
+# Optional: For data fetching
+beautifulsoup4>=4.12.0
