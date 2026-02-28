@@ -4,6 +4,8 @@
 
 The AI Tourism Concierge is an intelligent travel assistant designed specifically for promoting tourism in Tunisia and North Africa. Built for the ARSII AI Night Challenge, this application demonstrates how artificial intelligence can transform the travel planning experience by providing personalized recommendations, destination discovery, and even immersive 3D world generation.
 
+## Video demo : [video](2026-02-28 01-00-14.mkv)
+
 ## Challenge Context
 
 ## Technology Stack
